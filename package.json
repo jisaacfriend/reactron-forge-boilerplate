@@ -28,9 +28,9 @@
   },
   "devDependencies": {},
   "engines": {
-    "node": "",
-    "react": "",
-    "bootstrap": ""
+    "node": ">=14.5.0",
+    "react": ">=17.0.1",
+    "bootstrap": ">=4.5.3"
   },
   "eslintConfig": {
     "extends": [
