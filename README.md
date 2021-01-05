@@ -25,7 +25,7 @@ Reactron Forge Boilerplate can be used as the base for your own Electron applica
 
 ### Use This Repo as a Template
 When creating a new repo on Github you can select an existing repo as a template.  The result is basically like forking a repo except that the new repository does not include the commit history of the source template.
-[Using a repo as a template](https://user-images.githubusercontent.com/4657912/103611328-ac4be900-4ee7-11eb-8aef-c2ce2519c325.png)
+![Using a repo as a template](https://user-images.githubusercontent.com/4657912/103611328-ac4be900-4ee7-11eb-8aef-c2ce2519c325.png)
 
 ### Clone This Repo Into Your Own Project
 You can clone this repository directly and limit the depth and branches so that you do not also get the complete commit history.
