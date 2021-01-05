@@ -53,5 +53,4 @@ npm run package
 Donations are welcome and will help ensure long-term development of the boilerplate as well as the ability to continue to add features and address reported bugs.  If you would like to donate, hit me up on [Ko-fi](https://ko-fi.com/jisaacfriend).
 
 ## License
-Copyright 2020 J. Isaac Friend
-Published under the MIT License.
+Copyright 2020 J. Isaac Friend.  Published under the MIT License.
