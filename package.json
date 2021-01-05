@@ -9,7 +9,7 @@
   "main": "electron/main.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jisaacfriend/reactron-forge-boilerplate"
   },
   "scripts": {
     "start": "react-scripts start",
