@@ -7,8 +7,8 @@ A boilerplate for Electron Apps using React and Electron Forge.
 [![Make a pull request](https://img.shields.io/badge/PRs-Welcome-brightgreen)](/pulls)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-![GitHub watchers](https://img.shields.io/github/watchers/jisaacfriend/lol-conqueror?label=Watch%20on%20Github&style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/jisaacfriend/lol-conqueror?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/jisaacfriend/reactron-forge-boilerplate?label=Watch%20on%20Github&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/jisaacfriend/reactron-forge-boilerplate?style=social)
 
 Reactron Forge Boilerplate uses:
 * [Nodejs](https://nodejs.org)
